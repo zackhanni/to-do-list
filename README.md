@@ -1,3 +1,10 @@
+Ways to improve this app:
+-   checked tasks should mvoe to bottom of list/ and of array
+-   css to make it nicer to look at
+-   ability to clear all checked tasks or clear all
+
+
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
